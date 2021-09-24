@@ -1,0 +1,12 @@
+#topImage{
+    border-radius: 50%;
+}
+
+#topImageMargin{
+    margin-top: 60px;
+}
+
+.hero-title{
+    display: block;
+    text-align: center;
+}
